@@ -66,6 +66,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNos.Log.Networking", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNos.Import.Console", "OpenNos.Import.Console\OpenNos.Import.Console.csproj", "{C2D0CDB2-FDF9-4D33-A9C4-424E765F41C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub", "GitHub", "{5E6F9079-F206-47B7-BE55-9BE9A4987CF2}"
+	ProjectSection(SolutionItems) = preProject
+		Remember.txt = Remember.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		DE|Any CPU = DE|Any CPU

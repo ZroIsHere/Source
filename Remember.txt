@@ -1,0 +1,2 @@
+Add a parcel packet generator (or modify the actual)
+Add GenerateStat for NpcMonster.cs
