@@ -78,8 +78,9 @@ namespace OpenNos.Core
 
                 if (string.IsNullOrEmpty(value))
                 {
+                    Logger.Warn($"Missing this key: {key}");
                     _streamWriter?.WriteLine(name);
-                   return "none";
+                   return $"Missing this key: {key}";
                 }
 
                 return value;
