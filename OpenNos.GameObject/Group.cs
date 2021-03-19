@@ -57,7 +57,7 @@ namespace OpenNos.GameObject
 
         public ScriptedInstance Raid { get; set; }
 
-        public byte SharingMode { get; set; }
+        public GroupSharingType SharingMode { get; set; }
 
         public TalentArenaBattle TalentArenaBattle { get; set; }
 

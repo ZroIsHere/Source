@@ -3234,7 +3234,7 @@ namespace OpenNos.GameObject
                                         {
                                             if (group?.GroupType == GroupType.Group)
                                             {
-                                                if (group.SharingMode == (byte)GroupSharingType.ByOrder)
+                                                if (group.SharingMode == GroupSharingType.ByOrder)
                                                 {
                                                     dropOwner = group.GetNextOrderedCharacterId(this);
                                                     if (dropOwner.HasValue)
@@ -3322,7 +3322,7 @@ namespace OpenNos.GameObject
                                 {
                                     if (group != null && MapInstance.MapInstanceType != MapInstanceType.LodInstance)
                                     {
-                                        if (group.SharingMode == (byte)GroupSharingType.ByOrder)
+                                        if (group.SharingMode == GroupSharingType.ByOrder)
                                         {
                                             dropOwner = group.GetNextOrderedCharacterId(this);
 

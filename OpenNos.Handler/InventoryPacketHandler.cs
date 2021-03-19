@@ -822,7 +822,7 @@ namespace OpenNos.Handler
                                         && g.IsMemberOfGroup(Session.Character.CharacterId));
                                     if (item.CreatedDate.AddSeconds(30) > DateTime.Now
                                         && !(monsterMapItem.OwnerId == Session.Character.CharacterId
-                                          || (group?.SharingMode == (byte)GroupSharingType.Everyone)))
+                                          || (group?.SharingMode == GroupSharingType.Everyone)))
                                     {
                                         Session.SendPacket(
                                             Session.Character.GenerateSay(
