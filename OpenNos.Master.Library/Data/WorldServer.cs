@@ -12,8 +12,9 @@
  * GNU General Public License for more details.
  */
 
-using OpenNos.SCS.Communication.Scs.Communication.EndPoints.Tcp;
-using OpenNos.SCS.Communication.ScsServices.Service;
+using OpenNos.Core.Networking.Communication.Scs.Communication.EndPoints.Tcp;
+using OpenNos.Core.Networking.Communication.ScsServices.Client;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using System;
 
 namespace OpenNos.Master.Library.Data

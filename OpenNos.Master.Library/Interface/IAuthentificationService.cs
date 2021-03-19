@@ -1,7 +1,7 @@
-﻿using OpenNos.SCS.Communication.ScsServices.Service;
-using OpenNos.Data;
+﻿using OpenNos.Data;
 using OpenNos.Master.Library.Data;
 using System.Collections.Generic;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 
 namespace OpenNos.Master.Library.Interface
 {

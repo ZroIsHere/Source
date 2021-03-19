@@ -1,0 +1,11 @@
+C:\Users\Zro\Documents\GitHub\Source\bin\Debug\World\app.config
+C:\Users\Zro\Documents\GitHub\Source\bin\Debug\World\OpenNos.World.exe.config
+C:\Users\Zro\Documents\GitHub\Source\bin\Debug\World\OpenNos.World.exe
+C:\Users\Zro\Documents\GitHub\Source\bin\Debug\World\OpenNos.World.pdb
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.csprojAssemblyReference.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.Resource.LocalizedResources.resources
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.csproj.GenerateResource.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.csproj.CoreCompileInputs.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.csproj.CopyComplete
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.exe
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.World\obj\Debug\OpenNos.World.pdb

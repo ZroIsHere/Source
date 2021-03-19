@@ -15,12 +15,11 @@
 using OpenNos.Log.Shared;
 using OpenNos.Core;
 using OpenNos.Master.Library.Data;
-using OpenNos.SCS.Communication.ScsServices.Service;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
-using System.Reactive.Linq;
 
 namespace OpenNos.Master.Server
 {

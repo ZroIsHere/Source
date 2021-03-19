@@ -12,9 +12,8 @@
  * GNU General Public License for more details.
  */
 
-using OpenNos.Data;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using OpenNos.Master.Library.Data;
-using OpenNos.SCS.Communication.ScsServices.Service;
 using System;
 using System.Collections.Generic;
 

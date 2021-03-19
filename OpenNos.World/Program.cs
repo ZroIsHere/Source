@@ -35,7 +35,7 @@ using System.Text;
 using System.Threading;
 using OpenNos.GameObject.Networking;
 using System.IO;
-using OpenNos.SCS.Communication.Scs.Communication;
+using OpenNos.Core.Networking.Communication.Scs.Communication;
 
 namespace OpenNos.World
 {

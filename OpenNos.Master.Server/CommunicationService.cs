@@ -19,13 +19,12 @@ using OpenNos.Domain;
 using OpenNos.GameObject;
 using OpenNos.Master.Library.Data;
 using OpenNos.Master.Library.Interface;
-using OpenNos.SCS.Communication.Scs.Communication.EndPoints.Tcp;
-using OpenNos.SCS.Communication.ScsServices.Service;
+using OpenNos.Core.Networking.Communication.Scs.Communication.EndPoints.Tcp;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
-using System.Reactive.Linq;
 
 namespace OpenNos.Master.Server
 {
@@ -175,7 +174,7 @@ namespace OpenNos.Master.Server
         }
 
         public bool IsAct4Online(string worldGroup) => MSManager.Instance.WorldServers.Any(w => w.WorldGroup.Equals(worldGroup)
-            && w.Endpoint.IpAddress == MSManager.Instance.ConfigurationObject.Act4IP && w.Endpoint.TcpPort == MSManager.Instance.ConfigurationObject.Act4Port);
+            && w.Endpoint.IpAddress.ToString() == MSManager.Instance.ConfigurationObject.Act4IP && w.Endpoint.TcpPort == MSManager.Instance.ConfigurationObject.Act4Port);
 
         public bool IsCharacterConnected(string worldGroup, long characterId)
         {

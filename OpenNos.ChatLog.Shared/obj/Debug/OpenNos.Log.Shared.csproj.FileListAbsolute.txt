@@ -1,0 +1,6 @@
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\bin\Debug\OpenNos.Log.Shared.dll
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\bin\Debug\OpenNos.Log.Shared.pdb
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\obj\Debug\OpenNos.Log.Shared.csprojAssemblyReference.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\obj\Debug\OpenNos.Log.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\obj\Debug\OpenNos.Log.Shared.dll
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.ChatLog.Shared\obj\Debug\OpenNos.Log.Shared.pdb

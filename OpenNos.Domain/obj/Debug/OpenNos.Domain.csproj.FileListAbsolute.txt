@@ -1,0 +1,6 @@
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\bin\Debug\OpenNos.Domain.dll
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\bin\Debug\OpenNos.Domain.pdb
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\obj\Debug\OpenNos.Domain.csprojAssemblyReference.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\obj\Debug\OpenNos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\obj\Debug\OpenNos.Domain.dll
+C:\Users\Zro\Documents\GitHub\Source\OpenNos.Domain\obj\Debug\OpenNos.Domain.pdb

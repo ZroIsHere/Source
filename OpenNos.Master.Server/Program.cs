@@ -12,7 +12,6 @@
  * GNU General Public License for more details.
  */
 
-using log4net;
 using OpenNos.Core;
 using OpenNos.DAL;
 using OpenNos.DAL.EF.Helpers;
@@ -20,18 +19,18 @@ using OpenNos.Data;
 using OpenNos.GameObject;
 using OpenNos.Master.Library.Data;
 using OpenNos.Master.Library.Interface;
-using OpenNos.SCS.Communication.Scs.Communication.EndPoints.Tcp;
-using OpenNos.SCS.Communication.ScsServices.Service;
+using OpenNos.Core.Networking.Communication.Scs.Communication.EndPoints.Tcp;
+using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using System;
 using System.Configuration;
 using System.Diagnostics;
 using System.Globalization;
 using System.Net;
-using System.Reactive.Linq;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
+using log4net;
 
 namespace OpenNos.Master.Server
 {

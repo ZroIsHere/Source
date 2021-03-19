@@ -1,4 +1,4 @@
-﻿using OpenNos.SCS.Communication.ScsServices.Service;
+﻿using OpenNos.Core.Networking.Communication.ScsServices.Service;
 using OpenNos.Master.Library.Data;
 using System;
 
